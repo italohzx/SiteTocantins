@@ -1,8 +1,32 @@
 .nav-top{
-background-color: rgb(70, 70, 248) !important;
+background-color: rgb(8, 122, 4) !important;
 
 }
 
 .nav-link{
-    color: #f4f4f4;
+    color: #f4f4f4 !important;
+}
+
+footer{
+    background-color: rgb(8, 122, 4) !important;
+    color: #f4f4f4 !important
+    
+}
+.car-img{
+max-height: 55em  !important;
+
+}
+
+.carousel-caption{
+    background-color: rgb(8, 122, 4) !important;
+}
+
+.divisão{
+background-color:rgb(8, 122, 4) !important ;
+text-align: center;
+color: #f4f4f4;
+padding: 2em;
+margin-bottom: 4em;
+
+
 }
