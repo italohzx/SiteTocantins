@@ -26,7 +26,24 @@ background-color:rgb(8, 122, 4) !important ;
 text-align: center;
 color: #f4f4f4;
 padding: 2em;
-margin-bottom: 4em;
 
 
+
+}
+.sec-pacotes{
+    
+margin-left: 0% !important;
+margin-right: 0% !important;
+justify-content: center !important;
+margin-bottom: 1% !important;
+background-color: rgba(23, 53, 223, 0.911);
+}
+
+.card{
+padding: 1% !important;
+margin: 0% 1% 1% !important;
+}
+
+.card h4{
+    color:rgb(8, 122, 4) !important ;
 }
