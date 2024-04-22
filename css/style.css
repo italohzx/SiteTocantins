@@ -1,49 +1,81 @@
-.nav-top{
-background-color: rgb(8, 122, 4) !important;
+.nav-top {
+    background-color: rgb(21, 99, 1) !important;
 
 }
 
-.nav-link{
+.nav-link {
     color: #f4f4f4 !important;
 }
 
-footer{
-    background-color: rgb(8, 122, 4) !important;
-    color: #f4f4f4 !important
-    
-}
-.car-img{
-max-height: 55em  !important;
+footer {
+    background-color: rgb(21, 99, 1) !important;
+    color: #f4f4f4 !important;
 
 }
 
-.carousel-caption{
-    background-color: rgb(8, 122, 4) !important;
-}
-
-.divisão{
-background-color:rgb(8, 122, 4) !important ;
-text-align: center;
-color: #f4f4f4;
-padding: 2em;
-
-
+.car-img {
+    max-height: 55em !important;
 
 }
-.sec-pacotes{
-    
-margin-left: 0% !important;
-margin-right: 0% !important;
-justify-content: center !important;
-margin-bottom: 1% !important;
-background-color: rgba(23, 53, 223, 0.911);
+
+.carousel-caption {
+    background-color: rgb(21, 99, 1) !important;
 }
 
-.card{
-padding: 1% !important;
-margin: 0% 1% 1% !important;
+.divisão {
+    background-color: rgb(21, 99, 1) !important;
+    text-align: center;
+    color: #f4f4f4;
+    padding: 2em;
+
+
 }
 
-.card h4{
-    color:rgb(8, 122, 4) !important ;
+.sec-pacotes {
+
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    justify-content: center !important;
+    margin-bottom: 1% !important;
+    background-color: rgb(21, 99, 1) !important;
+}
+
+.card {
+    padding: 1% !important;
+    margin: 0% 1% 1% !important;
+}
+
+.card p {
+    text-align: justify !important;
+}
+
+
+
+
+
+.card h4 {
+    color: rgb(14, 117, 45) !important;
+}
+
+.sec-contatos {
+
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+
+
+
+.mapa {
+    margin-top: 5% !important;
+margin-left: 5em !important;
+}
+
+.links {
+    text-align: center;
+    padding: 1em;
+    color: rgb(0, 0, 0);
+    margin-top: 1em;
+    margin-left: 5em;
 }
